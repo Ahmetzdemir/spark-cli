@@ -1,0 +1,1 @@
+"""Spark çekirdek motor."""

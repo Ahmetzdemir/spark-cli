@@ -1,0 +1,1 @@
+"""Spark LLM bağlantı katmanı."""
